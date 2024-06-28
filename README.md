@@ -5,10 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <h1>Desenvolvimento-Web: Trabalho final/h1>
+  <h1>Desenvolvimento-Web: Trabalho final </h1>
 
   <h2>Descrição do Projeto</h2>
-  <p>Neste trabalho desenvolvemos um site de modelo de receitas medicas americano, onde médicos podem criar receitas e as farmacias podem ter acesso a elas remotamente.</p>
+  <p>Neste projeto, criamos um site para gestão de receitas médicas, onde os médicos podem elaborar receitas e as farmácias podem acessá-las remotamente.
+
+</p>
 
   <p>Conseguimos concluir as seguintes requisições:</p>
   <ul>
@@ -20,7 +22,7 @@
   <p> O que foi usado para conclusão da atividade:</p>
   <ul>
     <li>MySQL- Banco de Dados.</li>
-    <li>Angular framework- rontend.</li>
+    <li>Angular framework- frontend.</li>
     <li>Spring boot framework- backend.</li>
     <li>Tomcat - servidor web Java.</li>
   </ul>
