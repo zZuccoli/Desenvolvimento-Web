@@ -39,7 +39,9 @@
       <li>Diego Vinicius dos Santos</li>
   </ul>
 
- <ul> <a href="https://drive.google.com/file/d/1ye__9iYdrx5jcRzhsvazQrQOMdNR0BGQ/view?usp=sharing">Vídeo de apresentação</a><ul>
- <ul> <a href="https://drive.google.com/file/d/15zDshWKorpKZfC7k9HybiZsLnDyd_Wcq/view?usp=sharing">Codigo completo</a><ul>
+<ul>
+  <li><a href="https://drive.google.com/file/d/1ye__9iYdrx5jcRzhsvazQrQOMdNR0BGQ/view?usp=sharing">Vídeo de apresentação</a></li>
+  <li><a href="https://drive.google.com/file/d/15zDshWKorpKZfC7k9HybiZsLnDyd_Wcq/view?usp=sharing">Código completo</a></li>
+</ul>
 </body>
 </html>
